@@ -1,0 +1,20 @@
+table{ 
+border:1px solid grey;  
+border-collapse:separate; 
+border-spacing:7px 11px;
+} 
+td,th{  
+min-width:120px; 
+min-height:30px; 
+text-align:center; 
+padding:5px;
+} 
+th{ 
+background-color:#E0DFDE; 
+min-height:90px; 
+min-width:75px;
+} 
+
+
+
+
